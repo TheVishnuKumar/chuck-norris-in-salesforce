@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/chucknorris_logo.png" style="height:200px;">
+  <img src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/chucknorris_logo.png" height="200px">
 </div>
 
 This is Lightning Web Component to which shows jokes. It consumes https://api.chucknorris.io/ APIs. The only purpose of this component to give a smile on your face :). Definitely, it will not solve any developer or business need.
@@ -16,10 +16,10 @@ This is Lightning Web Component to which shows jokes. It consumes https://api.ch
 
 # Screenshots:
 <div align="center">
-  <img style="height:200px;" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-1.png">
-  <img style="height:200px;" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-2.png">
-  <img style="height:200px;" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-3.png">
-  <img style="height:200px;" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-4.png">
+  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-1.png">
+  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-2.png">
+  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-3.png">
+  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-4.png">
 </div>
 
 # APIs:
