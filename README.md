@@ -9,6 +9,8 @@ This is Lightning Web Component to which shows jokes. It consumes https://api.ch
 
 **Seriously no serious work is here :)**
 
+Demo Video: https://www.youtube.com/watch?v=Rcd_8SI5VWE
+
 <a href="https://githubsfdeploy.herokuapp.com?owner=TheVishnuKumar&repo=chuck-norris-in-salesforce">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
