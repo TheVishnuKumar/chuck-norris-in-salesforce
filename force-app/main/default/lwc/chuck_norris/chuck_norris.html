@@ -1,0 +1,29 @@
+<template>
+    <article class="slds-card">
+        <div class="slds-card__header slds-grid">
+            <header>
+                <h2>
+                    <a class="slds-card__header-link slds-truncate">
+                        <span class="slds-text-heading_small">Chuck Norris</span>
+                    </a>
+                </h2>
+            </header>
+        </div>
+        <div class="slds-illustration slds-illustration_small">
+            <div class="slds-text-longform">
+                <div>
+                    <img src={logo} style="height: 120px;"/>
+                </div>
+
+                <div style="text-align: center;display: inline-block;">
+                    <lightning-combobox label="Category" value={selectedCate} options={catOptions} onchange={handleCategoryChange} style="text-align: left;"></lightning-combobox>
+                </div>
+
+                <p class="slds-text-body_regular" style="font-style: italic;color: #2a6911;padding: 15px;font-size: 15px;">{joke}</p>
+            </div>
+        </div>
+        <footer class="slds-card__footer">
+            <a onclick={giveMeOneMore}>One More Please!!!</a>
+        </footer>
+    </article>
+</template>

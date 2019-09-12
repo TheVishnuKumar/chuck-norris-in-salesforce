@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>ChuckNorrisController</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Home_Page_Default</members>
+  </types>
+  <types>
+    <name>LightningComponentBundle</name>
+    <members>chuck_norris</members>
+  </types>
+  <types>
+    <name>RemoteSiteSetting</name>
+    <members>ChuckNorris</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>ChuckNorrisLogo</members>
+  </types>
+  <version>46.0</version>
+</Package>
