@@ -22,10 +22,10 @@ Source: https://api.chucknorris.io/#!
 
 # Screenshots:
 <div align="center">
-  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-1.png">
-  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-2.png">
-  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-3.png">
-  <img height="200px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-4.png">
+  <img height="400px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-1.png">
+  <img height="300px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-2.png">
+  <img height="300px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-3.png">
+  <img height="300px" src="https://raw.githubusercontent.com/TheVishnuKumar/chuck-norris-in-salesforce/master/ss-4.png">
 </div>
 
 # APIs:
